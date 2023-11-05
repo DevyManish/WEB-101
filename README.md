@@ -18,9 +18,9 @@ An Introduction to Web Development by GDSC JIS University 🤩
 
 #### DAY 1 : Basics
 
-- Internet Networking (By Chandan)
+- Internet Networking (By Chandan Bhaiya)
 - Intro to Web Development & HTML (By Manish)
-- Complete Roadmap (By Abhisek)
+- Complete Roadmap (By Abhisek Bhaiya)
 
 
  
